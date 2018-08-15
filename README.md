@@ -6,7 +6,7 @@
  
 ## Planejamento:
  ###  Release 1
- - Proposta inicial do projeto seguida de pesquisa de viabilidade do mesmo dentro do orçanmento planejado do PO (no caso, menos de R$ 100,00 no tempo de escrita deste documento)
+ - Proposta inicial do projeto seguida de pesquisa de viabilidade do mesmo dentro do orçamento planejado do PO (no caso, menos de R$ 100,00 no tempo de escrita deste documento)
  - Pesquisa de modelos possíveis de garrafinha para presente em pelo menos uma loja
  - Compra 
  
